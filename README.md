@@ -23,7 +23,7 @@ Algoruthm overview
 
 ### Result
 <img width="231" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/27f106bc-9827-4be4-ae1a-abb1810bf256"><br>
-Figure 2. Scenario #1 R value of neighbors
+Figure 1. Scenario #1 R value of neighbors
 
 
 
