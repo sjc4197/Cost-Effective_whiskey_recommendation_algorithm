@@ -10,3 +10,7 @@ Through scenario-based algorithm testing and simulations, we have successfully p
 Algoruthm overview
 
 <hr>
+## Scenario test
+- Recommendation approach : Emphasis on similarity![image](https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/808ac087-2ba7-4c73-b524-eba89c59290b)
+
+
