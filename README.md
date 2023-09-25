@@ -10,8 +10,9 @@ Through scenario-based algorithm testing and simulations, we have successfully p
 Algoruthm overview
 
 <hr>
+
 ## Scenario test
 
-- Recommendation approach : Emphasis on similarity
+> - Recommendation approach : Emphasis on similarity
 
 
