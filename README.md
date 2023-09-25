@@ -30,7 +30,7 @@ Figure 1. Algoruthm overview
 > - AGE : 12 Year
 > - Rating : 3.72
 > - Total similarty : 0.6898316481248351
-> - Cost level : 2(25$ ~ 50$)
+> - Cost level : 2(25$ ~ 50$)<br>
 > <img width="600" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/e3c91e3d-336e-4512-8113-8a0f78a3ea0d"><br>
 > Figure 3. Result word cloud
 
