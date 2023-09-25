@@ -7,7 +7,7 @@ Through scenario-based algorithm testing and simulations, we have successfully p
 <hr>
 
 ![알고리즘 순서도 final version](https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/75f42388-2c8c-44d4-83b8-26e2db7afd77)
-Algoruthm overview
+Figure 1. Algoruthm overview
 
 <hr>
 
@@ -23,7 +23,7 @@ Algoruthm overview
 
 ### Result
 > <img width="600" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/27f106bc-9827-4be4-ae1a-abb1810bf256"><br>
-> Figure 1. Scenario #1 R value of neighbors
+> Figure 2. Scenario #1 R value of neighbors
 > - Recommended whiskey : Tullibardine 12 Year
 > - Kind of whiskey : Single Malt
 > - ABV : 40.0
@@ -31,6 +31,9 @@ Algoruthm overview
 > - Rating : 3.72
 > - Total similarty : 0.6898316481248351
 > - Cost level : 2(25$ ~ 50$)
+> <img width="600" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/e3c91e3d-336e-4512-8113-8a0f78a3ea0d">
+> Figure 3. Result word cloud
+
 
 
 
