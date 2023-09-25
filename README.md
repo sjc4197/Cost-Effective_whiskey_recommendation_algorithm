@@ -13,6 +13,13 @@ Algoruthm overview
 
 ## Scenario test
 
+### Input data
 > - Recommendation approach : Emphasis on similarity
+> - Taste note : sweet and fresh flavors like apple, orange, lemon
+> - Rich :8
+> - Full bodied : 7
+> - Smoky : 2
+> - Sweet : 5
+
 
 
