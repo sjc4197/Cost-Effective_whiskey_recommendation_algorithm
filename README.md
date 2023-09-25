@@ -22,9 +22,17 @@ Algoruthm overview
 > - Sweet : 5
 
 ### Result
-> <img width="815" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/27f106bc-9827-4be4-ae1a-abb1810bf256"><br>
+> <img width="600" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/27f106bc-9827-4be4-ae1a-abb1810bf256"><br>
 > Figure 1. Scenario #1 R value of neighbors
-> 
+> - Recommended whiskey : Tullibardine 12 Year
+> - Kind of whiskey : Single Malt
+> - ABV : 40.0
+> - AGE : 12 Year
+> - Rating : 3.72
+> - Total similarty : 0.6898316481248351
+> - Cost level : 2(25$ ~ 50$)
+
+
 
 
 
