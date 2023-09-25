@@ -8,3 +8,29 @@ Through scenario-based algorithm testing and simulations, we have successfully p
 
 ![알고리즘 순서도 final version](https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/75f42388-2c8c-44d4-83b8-26e2db7afd77)
 Algoruthm overview
+
+<hr>
+## Recommendation system scenario test
+Scenario #1)
+Recommendation approach	: Emphasis on similarity
+Taste Note : sweet and fresh flavors like apple, orange, lemon
+Rich : 8
+Full Bodied : 7
+Smoky : 2
+Sweet : 5
+
+Scenario #1 Research result
+ <img width="231" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/e59056c9-7167-4782-a442-d681af138e4f">
+Figure 1. Scenario #1 R value of neighbors
+
+Table 4: Scenario #1 Recommendation result
+Recommended whiskey	Tullibardine 12 Year
+Kind of whiskey	Single Malt
+ABV : 40.0
+AGE : 12 Year
+Rating : 3.72
+Total similarity : 0.6898316481248351
+Cost level : 2(25$ ~ 50$)
+
+![image](https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/eb3534d5-4c84-4cad-891c-0bd2c8e59065)
+Figure 2. Scenario #1 Word cloud
