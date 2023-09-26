@@ -34,6 +34,8 @@ Figure 1. Algoruthm overview
 > <img width="600" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/e3c91e3d-336e-4512-8113-8a0f78a3ea0d"><br>
 > Figure 3. Result word cloud
 
+<hr>
+
 ### Scenario #2 input data
 > - Recommendation approach : Emphasis on rating
 > - Taste note : Highlighting aged flavors like leather and wood, and smoky, sweet
