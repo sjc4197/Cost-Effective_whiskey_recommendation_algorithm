@@ -22,7 +22,7 @@ Figure 1. Algoruthm overview
 > - Sweet : 5
 
 ### Result
-> ![image](https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/92da47d2-faa9-4385-ac6c-c721f3ab94df){: width="600" height="200"}<br>
+> <img width="600" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/27f106bc-9827-4be4-ae1a-abb1810bf256"><br>
 > Figure 2. Scenario #1 R value of neighbors
 > - Recommended whiskey : Tullibardine 12 Year
 > - Kind of whiskey : Single Malt
@@ -31,7 +31,7 @@ Figure 1. Algoruthm overview
 > - Rating : 3.72
 > - Total similarty : 0.6898316481248351
 > - Cost level : 2(25$ ~ 50$)<br>
-> ![image](https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/b96e5d5b-b2f1-4954-9e97-214d905e6b04)<br>
+> <img width="600" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/e3c91e3d-336e-4512-8113-8a0f78a3ea0d"><br>
 > Figure 3. Result word cloud
 
 <hr>
