@@ -22,7 +22,7 @@ Figure 1. Algoruthm overview
 > - Sweet : 5
 
 ### Result
-> ![image](https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/92da47d2-faa9-4385-ac6c-c721f3ab94df)<br>
+> ![image](https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/92da47d2-faa9-4385-ac6c-c721f3ab94df){: width="600" height="200"}<br>
 > Figure 2. Scenario #1 R value of neighbors
 > - Recommended whiskey : Tullibardine 12 Year
 > - Kind of whiskey : Single Malt
