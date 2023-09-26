@@ -13,7 +13,7 @@ Figure 1. Algoruthm overview
 
 ## Scenario test
 
-### Input data
+### Scenario #1 input data
 > - Recommendation approach : Emphasis on similarity
 > - Taste note : sweet and fresh flavors like apple, orange, lemon
 > - Rich :8
@@ -32,6 +32,27 @@ Figure 1. Algoruthm overview
 > - Total similarty : 0.6898316481248351
 > - Cost level : 2(25$ ~ 50$)<br>
 > <img width="600" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/e3c91e3d-336e-4512-8113-8a0f78a3ea0d"><br>
+> Figure 3. Result word cloud
+
+### Scenario #2 input data
+> - Recommendation approach : Emphasis on rating
+> - Taste note : Highlighting aged flavors like leather and wood, and smoky, sweet
+> - Rich :4
+> - Full bodied : 6
+> - Smoky : 9
+> - Sweet : 8
+
+### Result
+> <img width="600" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/2195be6e-dd12-4d7b-b609-d2eac6097b52">
+> Figure 4. Scenario #2 R value of neighbors
+> - Recommended whiskey : Willett Pot Still Reserve Bourbon
+> - Kind of whiskey : Bourbon
+> - ABV : 47.0
+> - AGE : NAS
+> - Rating : 3.71
+> - Total similarty : 0.6676571485915604
+> - Cost level : 2(25$ ~ 50$)<br>
+> <img width="600" alt="image" src="https://github.com/sjc4197/Cost-Effective_whiskey_recommendation_algorithm/assets/63084925/2e44d384-c905-4059-9446-bfab5278a023"><br>
 > Figure 3. Result word cloud
 
 
